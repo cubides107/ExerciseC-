@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/crist/CLionProjects/Exercise/cmake-build-debug",
-		"source" : "C:/Users/crist/CLionProjects/Exercise"
+		"build" : "C:/Users/crist/CLionProjects/ExerciseC-/cmake-build-debug",
+		"source" : "C:/Users/crist/CLionProjects/ExerciseC-"
 	},
 	"version" : 
 	{
